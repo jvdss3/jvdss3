@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/jvdss3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvdss3&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvdss3&layout=compact&langs_count=7&theme=swift"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvdss3&layout=compact&langs_count=7&theme=swift"/>
 </div>
 <div style="display: inline_block"><br> 
    <img align="center" alt="J-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
