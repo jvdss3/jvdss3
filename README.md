@@ -1,5 +1,4 @@
 ### Hi there, I'm João! A Computer Science student 👋
-- 🌱 I’m currently learning Python, JAVA POO and C.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  I'm also like to be outside, exploring and discovering new things!
 
