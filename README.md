@@ -1,6 +1,6 @@
 # 🧑🏾‍💻 João Vitor
 
-**Entusiasta em desenvolvimento mobile** 
+**Estudante de Ciencias da Computação** 
 <div align="left">
   <a href="https://github.com/jvdss3">
   <img height="120"
